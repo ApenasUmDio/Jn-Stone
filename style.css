@@ -1,0 +1,125 @@
+<style>body {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    background-color: #BB9CC0;
+    font-weight: bold;
+    margin: 0px;
+}
+
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    justify-content: center;
+    background-color: #67729d;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 0;
+    width: 100%;
+    height: 100px;
+    margin: 0px
+}
+.Historia{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #000000;
+    
+}
+table th{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    text-justify:right;
+    padding: 20px;
+}
+
+nav ul {
+    text-align: center;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    transition: a .55s ease;
+    color: white;
+}
+
+nav a:hover {
+    color: #BB9CC0;
+}
+
+.Home {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+}
+
+form label {
+    margin-bottom: 8px;
+}
+
+form input,
+form textarea {
+    width: 90%;
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    padding: 8px;
+}
+
+form button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+footer h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    width: 100%;
+    height: 20px;
+    /* position: fixed; */
+    text-align: center;
+    background-color: #67729d;
+    padding: 1em;
+    color: white;
+    bottom: 0;
+}
+
+
+</style>
